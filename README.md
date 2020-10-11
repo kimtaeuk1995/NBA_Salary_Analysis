@@ -1,6 +1,5 @@
 # Predicting NBA Salary 
-
-With the rise in superstars and their salary, it has become even more vital for teams and managers to allocate resources wisely when it comes to signing or trading players. It is in the best interest of the team to pay right amount based on player's performance and reduce risk of overpaying a player. It is also in the best interest of players to be paid adequately based on his performance. 
+NBA players' salaries are often brought into question regarding what the players are truly worth and how best to decide a price for them. Several factors go into the decision of a players' value including team selection, draft pick, salary caps, contract length, and performance. I wanted to explore the performance aspect further and see if I could correctly predict what salary bin a player would be placed in after comparing his performance to that of his peers. Furthermore, with the rise in superstars and their salary, it has become even more vital for teams and managers to allocate resources wisely when it comes to signing or trading players. It is in the best interest of the team to pay right amount based on player's performance and reduce risk of overpaying a player. It is also in the best interest of players to be paid adequately based on his performance. 
 
 # Methodology
 
